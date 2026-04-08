@@ -1,0 +1,41 @@
+{
+  "name": "family-chart-premium",
+  "buildName": "family-chart",
+  "version": "0.0.0-beta.1",
+  "description": "Premium family tree creator and viewer",
+  "keywords": [
+    "family tree",
+    "family-chart",
+    "family-chart-premium",
+    "d3"
+  ],
+  "homepage": "https://donatso.github.io/family-chart-premium/",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "author": {
+    "name": "donatso"
+  },
+  "main": "dist/family-chart.js",
+  "types": "dist/types/index.d.ts",
+  "unpkg": "dist/family-chart.min.js",
+  "exports": {
+    ".": {
+      "types": "./dist/types/index.d.ts",
+      "require": "./dist/family-chart.js",
+      "default": "./dist/family-chart.js"
+    },
+    "./styles/*": "./dist/styles/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donatso/family-chart-premium.git"
+  },
+  "files": [
+    "dist/**/*.js",
+    "dist/styles/**",
+    "dist/types/**"
+  ],
+  "sideEffects": false,
+  "peerDependencies": {
+    "d3": ">=7.0.0"
+  }
+}
