@@ -35,7 +35,7 @@
 
 <p align="center">
   <em>Explore the capabilities of Family Chart. 
-  <a href="https://donatso.github.io/family-chart-premium/playground/">See all features &rsaquo;</a></em>
+  <a href="https://donatso.github.io/family-chart-premium/playground/home/">See all features &rsaquo;</a></em>
 </p>
 
 ---
@@ -73,7 +73,7 @@ Alternatively, you can browse any of our [**Live Demos**](https://donatso.github
 ---
 
 ## 📜 Info
-
-- **Commercial Use**: Requires a paid license key.
+- **Personal & Educational**: Free for non-commercial projects, hobbies, and students.
+- **Commercial Use**: Requires a paid license key for businesses and revenue-generating apps.
 - **Support**: [donatso.dev@gmail.com](mailto:donatso.dev@gmail.com)
 - **Playground**: [donatso.github.io/family-chart-premium/](https://donatso.github.io/family-chart-premium/playground/home/)
